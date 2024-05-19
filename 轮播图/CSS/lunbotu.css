@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#silder {
+    margin: auto;
+    position: relative;
+    width: 1200px;
+    height: 564px;
+    overflow: hidden;
+}
+
+#list {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 600%;
+    height: 564px;
+}
+
+#list li {
+    float: left;
+    width: 1200px;
+    height: 564px;
+}
+
+#list li img {
+    width: 1200px;
+    height: 564px;
+}
